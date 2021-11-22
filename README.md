@@ -3,8 +3,6 @@ Welcom to my Github profile! You landed on **the** place to learn more about me.
 
 You might want to know about...  
 - :school: Study:     HBO-ICT at Utrecht University of applied science  
-- :computer: Work:        Remote webdeveloper at Cheek internetmarketing B.V.  
-- :mag::        Looking for IT-related parttime job remote **or** in the area of Utrecht (The Netherlands).
 - :postal_horn: E-mail:   contact@youri.vanderstar.eu  
 - :clipboard: Web:        [Youri.vanderstar.eu](https://youri.vanderstar.eu/)  
 - :clipboard: Linkedin:   [View my profile](https://www.linkedin.com/in/youri-van-der-star/).
