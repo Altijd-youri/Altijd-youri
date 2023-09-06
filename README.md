@@ -2,6 +2,7 @@
 Welcom to my Github profile! You landed on **the** place to learn more about me. There however are two places you should go, if you want to know more! See you on [my website](https://youri.vanderstar.eu/) (yeah, I know might be a bit outdated) and [linkedin page](https://www.linkedin.com/in/youri-van-der-star/).
 
 You might want to know about...  
+- 🏢: work:     IT Consultant @ Info Support
 - :school: Study:     HBO-ICT at Utrecht University of applied science  
 - :postal_horn: E-mail:   contact@youri.vanderstar.eu  
 - :clipboard: Web:        [Youri.vanderstar.eu](https://youri.vanderstar.eu/)  
